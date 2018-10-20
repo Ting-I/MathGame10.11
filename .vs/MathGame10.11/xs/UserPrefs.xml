@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{487BAEFC-E273-320E-B35C-F7B0B735342F}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/gamecontroller.cs">
+    <Files>
+      <File FileName="Assets/gamecontroller.cs" Line="41" Column="1" />
+      <File FileName="Assets/option.cs" Line="11" Column="35" />
+      <File FileName="Assets/startnewgame.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
